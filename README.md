@@ -41,11 +41,13 @@
 
 <hr>
 
-<h3>💼 Experience Highlights</h3>
+<h4>💼 Experience</h4>
 <ul>
-<li>Applied <strong>analytical and problem-solving skills</strong> across various roles.</li>
-<li>Automated data collection and reporting using Python & Excel, improving efficiency.</li>
-<li>Managed and analyzed client performance data to support <strong>data-driven decisions</strong>.</li>
+<li><strong>Power BI Developer Trainee</strong> – Information Technology Institute (ITI), Egypt (Jul 2025 – Oct 2025)  
+Completed an intensive 4-month program in business intelligence and data analytics.</li>
+
+<li><strong>Data Analyst</strong> – Al-Bayan Company, Cairo, Egypt (Oct 2024 – Mar 2025)  
+Analyzed production and sales data, prepared management reports, and tracked key performance indicators (KPIs).</li>
 </ul>
 
 <hr>
