@@ -14,10 +14,10 @@
 
 <h4>📊 Power BI Projects</h4>
 <ul>
-<li><strong>Hotel Booking Analysis</strong> – End-to-end BI solution with <strong>DAX measures, KPIs, and Drill-through</strong> for detailed country-level insights.</li>
-<li>Focus: Hotel performance, cancellations, revenue, and customer behavior.</li>
-<li>Link: <a href="https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi">Power BI Projects Folder</a></li>
+<li>Development of interactive dashboards and business intelligence solutions using Power BI.</li>
+<li>Explore: <a href="https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi">Power BI Projects Folder</a></li>
 </ul>
+
 
 
 <h4>🐍 Python Data Analysis</h4>
